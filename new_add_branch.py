@@ -1,2 +1,0 @@
-print("wowowow")
-# alperned demir
